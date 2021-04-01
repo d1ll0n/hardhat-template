@@ -56,6 +56,7 @@
   "scripts": {
     "lint": "hardhat check",
     "compile": "hardhat compile",
+    "coverage": "hardhat coverage",
     "test": "hardhat test"
   }
 }
