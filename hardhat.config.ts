@@ -5,6 +5,7 @@ import 'hardhat-typechain'
 import '@nomiclabs/hardhat-ethers'
 import '@nomiclabs/hardhat-waffle'
 import 'hardhat-deploy'
+import 'solidity-coverage'
 
 import { randomBytes } from 'crypto';
 
